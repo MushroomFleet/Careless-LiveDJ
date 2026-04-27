@@ -1,6 +1,6 @@
 # CARELESS-LIVEDJ
 
-**Cross The Streams** — a dual-stream Gemini Lyria Live DJ desktop application for Windows.
+**Cross The Streams** — a dual-stream Gemini Lyria Live DJ desktop application for Windows. 
 
 ![Cross The Streams](cross-the-streams.png)
 
