@@ -2,7 +2,7 @@
 
 **Cross The Streams** — a dual-stream Gemini Lyria Live DJ desktop application for Windows. 
 
-![Cross The Streams](cross-the-streams.png)
+![Cross The Streams](https://raw.githubusercontent.com/MushroomFleet/Careless-LiveDJ/refs/heads/main/69EF2F5A-AF95-4026-8F34-388CA3321FE4.png)
 
 Two simultaneous Google Gemini **Lyria RealTime** music generation streams, mixed through a real DJ-style crossfader, with a sample pad, beat-synced decks, MIDI control, automation lanes, FX, and continuous master recording. Bring your own API key.
 
